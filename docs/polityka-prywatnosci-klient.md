@@ -3,21 +3,22 @@
 ## Aplikacji mobilnej MeldMoto dla Klientów
 
 **Spis treści:**
-§ 1 Informacje ogólne
-§ 2 Administrator danych osobowych
-§ 3 Pozyskiwanie danych i cel ich przetwarzania
-§ 4 Kategorie danych osobowych
-§ 5 Odbiorcy danych osobowych
-§ 6 Archiwizacja danych osobowych
-§ 7 Uzyskiwanie dostępu i aktualizacja danych osobowych, reklamacje
-§ 8 Przetwarzanie danych osobowych w sposób zautomatyzowany
-§ 9 Geolokalizacja
-§ 10 Zmiany Polityki prywatności
+* § 1 Informacje ogólne
+* § 2 Administrator danych osobowych
+* § 3 Pozyskiwanie danych i cel ich przetwarzania
+* § 4 Kategorie danych osobowych
+* § 5 Odbiorcy danych osobowych
+* § 6 Archiwizacja danych osobowych
+* § 7 Uzyskiwanie dostępu i aktualizacja danych osobowych, reklamacje
+* § 8 Przetwarzanie danych osobowych w sposób zautomatyzowany
+* § 9 Geolokalizacja
+* § 10 Zmiany Polityki prywatności
 
 ## § 1 INFORMACJE OGÓLNE
 
 Polityka prywatności Aplikacji mobilnej MeldMoto dla Klientów nie stanowi źródła obowiązków dla osób korzystających z Aplikacji. Ma ona charakter wyłącznie informacyjny, nie jest umową ani regulaminem.
- Wszystkie wyrażenia i słowa zapisywane za pomocą wielkiej litery (np. Aplikacja, Warsztat, Klient itd.) należy rozumieć zgodnie z Regulaminem dla Klientów [https://meldmoto.pl/regulamin-klient](https://meldmoto.pl/regulamin-klient).
+
+Wszystkie wyrażenia i słowa zapisywane za pomocą wielkiej litery (np. Aplikacja, Warsztat, Klient itd.) należy rozumieć zgodnie z Regulaminem dla Klientów [https://meldmoto.pl/regulamin-klient](https://meldmoto.pl/regulamin-klient).
 
 W przypadku zaistnienia jakichkolwiek rozbieżności pomiędzy niniejszą Polityką prywatności a zgodami na przetwarzanie danych osobowych, udzielonymi przez Klienta, podstawą prawną do określenia zakresu działań Administratora są dobrowolnie wyrażone zgody lub przepisy prawa, które znajdują zastosowanie w danej sytuacji faktycznej.
 
@@ -42,14 +43,14 @@ Zgodnie z treścią wskazanych aktów prawnych, za dane osobowe uznaje się info
 Zapewniam, że pozyskane od Ciebie dane są poufne, bezpieczne i przetwarzane wyłącznie wtedy, gdy jest to konieczne. Przetwarzam dane zgodnie z prawem, w sposób rzetelny i przejrzysty dla osoby, której ten proces dotyczy. Przetwarzam tylko takie dane i tylko o takiej treści, które są niezbędne z uwagi na prawnie uzasadniony cel, czyli powód przetwarzania. Dane osobowe są gromadzone z należytą starannością i odpowiednio chronione przed dostępem do nich przez osoby do tego nieupoważnione. Stosuję odpowiednie i adekwatne środki bezpieczeństwa w celu ochrony danych osobowych przed przypadkową utratą oraz nieuprawnionym dostępem, wykorzystaniem, zmianą, czy ujawnieniem. Dane osobowe przechowuję w sposób umożliwiającej identyfikację osoby, której dane dotyczą, przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są przetwarzane.
 
 Pozyskuję informacje o danych osobowych Klienta w następujący sposób:
-a) poprzez dokonanie rejestracji Konta Klienta w Aplikacji;
-b) poprzez wprowadzenie opinii w Aplikacji;
-c) poprzez dobrowolnie wprowadzone informacje w wiadomości e-mail, lub formularzu kontaktowym Aplikacji;
-d) poprzez zeskanowanie kodu QR z dowodu rejestracyjnego pojazdu Klienta za pośrednictwem Aplikacji;
-e) poprzez przesłanie reklamacji, wniosku, zapytania lub pisma o innym charakterze;
-f) poprzez dobrowolnie wprowadzone informacje w wiadomości e-mail przesłanej w związku z chęcią nawiązania współpracy;
-g) poprzez zamieszczenie przez Klienta zdjęcia w profilu Klienta w Aplikacji;
-h) poprzez pliki cookies, piksele lub podobne technologie internetowe.
+* a) poprzez dokonanie rejestracji Konta Klienta w Aplikacji;
+* b) poprzez wprowadzenie opinii w Aplikacji;
+* c) poprzez dobrowolnie wprowadzone informacje w wiadomości e-mail, lub formularzu kontaktowym Aplikacji;
+* d) poprzez zeskanowanie kodu QR z dowodu rejestracyjnego pojazdu Klienta za pośrednictwem Aplikacji;
+* e) poprzez przesłanie reklamacji, wniosku, zapytania lub pisma o innym charakterze;
+* f) poprzez dobrowolnie wprowadzone informacje w wiadomości e-mail przesłanej w związku z chęcią nawiązania współpracy;
+* g) poprzez zamieszczenie przez Klienta zdjęcia w profilu Klienta w Aplikacji;
+* h) poprzez pliki cookies, piksele lub podobne technologie internetowe.
 
 Informuję, że cel i zakres danych przetwarzanych przez Administratora wynika ze zgody
 
@@ -59,35 +60,16 @@ Podanie danych osobowych jest dobrowolne, lecz niezbędne w celu skorzystania z 
 
 Twoje dane osobowe są pozyskiwane przez Administratora w następującym celu:
 
-Cel przetwarzania Podstawa prawna Prawnie uzasadniony cel, jeśli istnieje
-Prowadzenie statystyk art. 6 ust. 1 lit. f RODO Posiadanie informacji o statystykach prowadzonych działaniach, co pozwala na usprawnienie prowadzonej przez nas działalności gospodarczej. Prowadzenie działań marketingowych własnych produktów i usług bez wykorzystania środków komunikacji elektronicznej art. 6 ust. 1 lit. f RODO Prowadzenie działań marketingowych promujących prowadzoną działalność.
-
-Prowadzenie działań marketingowych własnych produktów i usług z wykorzystaniem środków komunikacji elektronicznej. art. 6 ust. 1 lit. f RODO, przy czym działania te ze względu na inne obowiązujące przepisy, w szczególności Prawo telekomunikacyjne i Ustawę o świadczeniu usług drogą elektroniczną, prowadzone są jedynie na podstawie posiadanych zgód (art. 6 ust. 1 lit. a RODO). 
-Prowadzenie działań marketingowych promujących prowadzoną działalność z wykorzystaniem adresów e- mail.
-
-Obsługa zgłoszeń kierowanych w wiadomości e-mail, reklamacji, innych wniosków. art. 6 ust. 1 lit. a RODO, art. 6 ust. 1 lit. c RODO 
-Udzielanie odpowiedzi na zgłoszenia i zapytania, w tym przechowywanie newralgicznych wniosków i udzielonych odpowiedzi celem zachowania zasady rozliczalności. Obsługa wniosków, udzielenie odpowiedzi na reklamacje konsumenckie. Dochodzenie roszczeń, w tym od osób trzecich, obrona przez nimi. Zamieszczenie opinii przez Klienta art. 6 ust. 1 lit. a RODO Badanie opinii Klienta, recenzja Warsztatu.
-
-Obsługa Konta Klienta art. 6 ust. 1 lit. a RODO, Zawarcie i realizacja
-Umowy Usług
-Elektronicznych (Konta
-Klienta).
-
-Zawarcie i realizacja
-Umowy Serwisu
-
-art. 6 ust. 1 lit. b RODO, Zawarcie i realizacja
-Umowy Serwisu lub
-podjęcie działań na żądanie
-przyszłego Klienta przed jej
-zawarciem.
-Archiwizacja dokumentów Art. 6 ust. 1 lit. c RODO Wypełnienie obowiązków
-prawnych wynikających z
-przepisów, np.
-podatkowych i
-rachunkowych, zwłaszcza w
-przypadku umów
-odpłatnych.
+| Cel przetwarzania | Podstawa prawna | Prawnie uzasadniony cel, jeśli istnieje |
+| ----------------- | --------------- | --------------------------------------- |
+| Prowadzenie statystyk | art. 6 ust. 1 lit. f RODO | Posiadanie informacji o statystykach prowadzonych działaniach, co pozwala na usprawnienie prowadzonej przez nas działalności gospodarczej. |
+| Prowadzenie działań marketingowych własnych produktów i usług bez wykorzystania środków komunikacji elektronicznej | art. 6 ust. 1 lit. f RODO | Prowadzenie działań marketingowych promujących prowadzoną działalność. |
+| Prowadzenie działań marketingowych własnych produktów i usług z wykorzystaniem środków komunikacji elektronicznej | art. 6 ust. 1 lit. f RODO, przy czym działania te ze względu na inne obowiązujące przepisy, w szczególności Prawo telekomunikacyjne i Ustawę o świadczeniu usług drogą elektroniczną, prowadzone są jedynie na podstawie posiadanych zgód (art. 6 ust. 1 lit. a RODO). | Prowadzenie działań marketingowych promujących prowadzoną działalność z wykorzystaniem adresów e- mail. |
+| Obsługa zgłoszeń kierowanych w wiadomości e-mail, reklamacji, innych wniosków | art. 6 ust. 1 lit. a RODO, art. 6 ust. 1 lit. c RODO | Udzielanie odpowiedzi na zgłoszenia i zapytania, w tym przechowywanie newralgicznych wniosków i udzielonych odpowiedzi celem zachowania zasady rozliczalności. Obsługa wniosków, udzielenie odpowiedzi na reklamacje konsumenckie. Dochodzenie roszczeń, w tym od osób trzecich, obrona przez nimi. |
+| Zamieszczenie opinii przez Klienta | art. 6 ust. 1 lit. a RODO | Badanie opinii Klienta, recenzja Warsztatu. |
+| Obsługa Konta Klienta | art. 6 ust. 1 lit. a RODO | Zawarcie i realizacjaUmowy Usług Elektronicznych (Konta Klienta) |
+| Zawarcie i realizacja Umowy Serwisu | art. 6 ust. 1 lit. b RODO | Zawarcie i realizacja Umowy Serwisu lub podjęcie działań na żądanie przyszłego Klienta przed jej zawarciem. |
+| Archiwizacja dokumentów | art. 6 ust. 1 lit. c RODO | Wypełnienie obowiązków prawnych wynikających z przepisów, np. podatkowych i rachunkowych, zwłaszcza w przypadku umów odpłatnych. |
 
 **Kontakt e-mailowy.** Kontaktując się ze mną za pośrednictwem poczty elektronicznej, przekazujesz mi swój adres e-mail jako adres nadawcy wiadomości. Ponadto, w treści wiadomości możesz zawrzeć również inne dane osobowe, jak imię i nazwisko, numer telefonu. Podanie danych jest dobrowolne, ale niezbędne, by nawiązać ze mną kontakt.
 
@@ -114,21 +96,22 @@ W każdej chwili możesz sprostować swoje dane przypisane do Konta Klienta, jak
 ## § 4 KATEGORIE DANYCH OSOBOWYCH
 
 Administrator danych osobowych może przetwarzać następujące kategorie danych osobowych:
-a) dane osobowe podane w formularzu przy rejestracji Konta Klienta w Aplikacji, w szczególności: adres e-mail;
-b) dane osobowe podane w formularzu przy uzupełnianiu danych Konta Klienta, w szczególności: imię i nazwisko; nazwa firmy, adres e-mail; numer telefonu kontaktowego; adres siedziby [ulica, numer domu, numer lokalu, kod pocztowy, miejscowość, kraj], a w przypadku Klientów niebędących konsumentami dodatkowo nazwa firmy oraz numer identyfikacji podatkowej [NIP], zdjęcie oraz pozostałe dane zebrane w trakcie korzystania z Aplikacji;
-c) dane osobowe podane w celu zamieszczenia opinii o usłudze: imię i nazwisko, adres e-mail, dane uzupełnione przez Klienta;
-d) dane wynikające z dowodu rejestracyjnego pojazdu w postaci informacji o modelu pojazdu Klienta, marce, wersji, wariancie, numerze VIN, pojemności silnika, mocy silnika, rodzaju paliwa, roku produkcji, dacie pierwszej rejestracji i masie;
-e) inne dane w szczególności uzyskane w oparciu o aktywność Klienta w Aplikacji lub innych kanałów komunikacji z Klientem, z wykorzystaniem cookies i podobnych technologii.
+* a) dane osobowe podane w formularzu przy rejestracji Konta Klienta w Aplikacji, w szczególności: adres e-mail;
+* b) dane osobowe podane w formularzu przy uzupełnianiu danych Konta Klienta, w szczególności: imię i nazwisko; nazwa firmy, adres e-mail; numer telefonu kontaktowego; adres siedziby [ulica, numer domu, numer lokalu, kod pocztowy, miejscowość, kraj], a w przypadku Klientów niebędących konsumentami dodatkowo nazwa firmy oraz numer identyfikacji podatkowej [NIP], zdjęcie oraz pozostałe dane zebrane w trakcie korzystania z Aplikacji;
+* c) dane osobowe podane w celu zamieszczenia opinii o usłudze: imię i nazwisko, adres e-mail, dane uzupełnione przez Klienta;
+* d) dane wynikające z dowodu rejestracyjnego pojazdu w postaci informacji o modelu pojazdu Klienta, marce, wersji, wariancie, numerze VIN, pojemności silnika, mocy silnika, rodzaju paliwa, roku produkcji, dacie pierwszej rejestracji i masie;
+* e) inne dane w szczególności uzyskane w oparciu o aktywność Klienta w Aplikacji lub innych kanałów komunikacji z Klientem, z wykorzystaniem cookies i podobnych technologii.
 
 ## § 5 ODBIORCY DANYCH OSOBOWYCH
 
 Twoje dane osobowe mogą być przetwarzane przez naszych partnerów i podwykonawców, czyli podmioty, z których usług korzystamy przy przetwarzaniu danych oraz świadczeniu na Twoją rzecz usług. Wedle naszej wiedzy, wszystkie podmioty, którym powierzamy przetwarzanie danych osobowych gwarantują stosowanie odpowiednich środków ochrony i bezpieczeństwa danych osobowych wymaganych przez przepisy prawa.
 
 Twoje dane osobowe Administrator może przekazywać:
-a) organom państwowym lub innym podmiotom uprawnionym na podstawie przepisów prawa, celem wykonania ciążących na nas obowiązków (Urząd Skarbowy, ZUS, PUODO, Policja, prokuratura, Prezes UOKiK – jeżeli się o to zwrócą do Administratora);
-b) ponadto, w przetwarzaniu danych osobowych w ograniczonym zakresie mogą brać udział moi partnerzy, w szczególności którzy technicznie pomagają sprawnie prowadzić Aplikację (np. wspierają nas w wysyłaniu wiadomości e-mail, poprawianiu funkcjonalności Aplikacji, a w przypadku działań reklamowych – także w kampaniach marketingowych), dostawcy usług hostingu lub usług teleinformatycznych, , podmioty obsługujące płatności elektroniczne lub płatności kartą płatniczą w Aplikacji, firmy, które serwisują oprogramowanie, wspierają Administratora w kampaniach marketingowych, jak również dostawcy usług prawnych i doradczych oraz księgowość zewnętrzna;
-c) ponadto możemy udostępniać dane w pełni zanonimizowane (takie, które nie mogą Państwa zidentyfikować) podmiotom, z którymi współpracujemy.
- W ramach działalności marketingowej (reklamowej) korzystam z usług podmiotów trzecich, które stosują w Aplikacji pliki cookies, piksele lub funkcje marketingowe zbliżone do cookies. Katalog tych podmiotów został szczegółowo wskazany w naszej Polityce Cookies [https://meldmoto.pl/polityka-cookies](https://meldmoto.pl/polityka-cookies).
+* a) organom państwowym lub innym podmiotom uprawnionym na podstawie przepisów prawa, celem wykonania ciążących na nas obowiązków (Urząd Skarbowy, ZUS, PUODO, Policja, prokuratura, Prezes UOKiK – jeżeli się o to zwrócą do Administratora);
+* b) ponadto, w przetwarzaniu danych osobowych w ograniczonym zakresie mogą brać udział moi partnerzy, w szczególności którzy technicznie pomagają sprawnie prowadzić Aplikację (np. wspierają nas w wysyłaniu wiadomości e-mail, poprawianiu funkcjonalności Aplikacji, a w przypadku działań reklamowych – także w kampaniach marketingowych), dostawcy usług hostingu lub usług teleinformatycznych, , podmioty obsługujące płatności elektroniczne lub płatności kartą płatniczą w Aplikacji, firmy, które serwisują oprogramowanie, wspierają Administratora w kampaniach marketingowych, jak również dostawcy usług prawnych i doradczych oraz księgowość zewnętrzna;
+* c) ponadto możemy udostępniać dane w pełni zanonimizowane (takie, które nie mogą Państwa zidentyfikować) podmiotom, z którymi współpracujemy.
+
+W ramach działalności marketingowej (reklamowej) korzystam z usług podmiotów trzecich, które stosują w Aplikacji pliki cookies, piksele lub funkcje marketingowe zbliżone do cookies. Katalog tych podmiotów został szczegółowo wskazany w naszej Polityce Cookies [https://meldmoto.pl/polityka-cookies](https://meldmoto.pl/polityka-cookies).
 
 Nasi dostawcy mają siedzibę głównie w Polsce lub w innych krajach Europejskiego Obszaru Gospodarczego (EOG), a także np. w przypadku Google Analytics siedzibę poza terytorium EOG. W związku z treścią orzeczenia TSUE _Schrems II_ (C-311/18), mamy włączoną anonimizację Państwa numerów IP – nie przekazujemy tych danych do USA. Pozostałe dane przesyłane do Google nie mają cech danych osobowych, tj. nie można na ich podstawie zidentyfikować konkretnej osoby fizycznej.
 
@@ -138,75 +121,28 @@ Będę przechowywać Twoje dane osobowe jedynie tak długo, jak jest to niezbęd
 
 Dane przechowuję przez okresy wskazane poniżej:
 
-
-Dane powiązane z procedurą zawierania,
-Umów Serwisu
-
-5 lat
-
-Dane dla celów marketingowych W przypadku przetwarzania danych na
-podstawie zgody – do czasu jej wycofania.
-W przypadku przetwarzania danych na
-podstawie prawnie uzasadnionego celu –
-do czasu wniesienia sprzeciwu.
-Dane przekazywane z wykorzystaniem
-formularza kontaktowego, e-mail.
-
-Przez okres 3 lat celem zachowania zasady
-rozliczalności.
-Dane zawarte w opiniach W przypadku przetwarzania danych na
-podstawie zgody – do czasu jej wycofania.
-W przypadku przetwarzania danych na
-podstawie prawnie uzasadnionego celu –
-do czasu wniesienia sprzeciwu.
-
-Dane osobowe powiązane z cookies i
-podobnymi funkcjami
-
-Do czasu usunięcia tych plików przy
-pomocy ustawień strony / przeglądarki /
-urządzenia (przy czym usunięcie plików
-nie zawsze jest tożsame z usunięciem
-Danych Osobowych uzyskanych za
-pośrednictwem tych plików – wówczas
-dane osobowe będą usunięte do czasu
-wniesienia sprzeciwu)
-Dane przekazywane w trakcie
-postępowania reklamacyjnego i innych
-procedur związanych z roszczeniami
-Klienta lub Warsztatu
-
-5 lat
-
-Pozostała kategoria danych (za wyjątkiem
-danych z plików cookies, o czym więcej w
-naszej Polityce Cookies)
-
-5 lat
-
-Dane przekazane poprzez skan kodu QR z
-dowodu rejestracyjnego pojazdu Klienta
-
-W przypadku przetwarzania danych na
-podstawie zgody – do czasu jej wycofania.
-W przypadku przetwarzania danych na
-podstawie prawnie uzasadnionego celu –
-do czasu wniesienia sprzeciwu.
+| Dane powiązane z procedurą zawierania, Umów Serwisu | 5 lat |
+| --------------------------------------------------- | ----- |
+| Dane dla celów marketingowych | W przypadku przetwarzania danych na podstawie zgody – do czasu jej wycofania. W przypadku przetwarzania danych na podstawie prawnie uzasadnionego celu – do czasu wniesienia sprzeciwu. | 
+| Dane przekazywane z wykorzystaniem formularza kontaktowego, e-mail. | Przez okres 3 lat celem zachowania zasady rozliczalności. |
+| Dane zawarte w opiniach | W przypadku przetwarzania danych na podstawie zgody – do czasu jej wycofania. W przypadku przetwarzania danych na podstawie prawnie uzasadnionego celu – do czasu wniesienia sprzeciwu. |
+| Dane osobowe powiązane z cookies i podobnymi funkcjami | Do czasu usunięcia tych plików przy pomocy ustawień strony / przeglądarki / urządzenia (przy czym usunięcie plików nie zawsze jest tożsame z usunięciem. Danych Osobowych uzyskanych za pośrednictwem tych plików – wówczas dane osobowe będą usunięte do czasu wniesienia sprzeciwu) |
+| Dane przekazywane w trakcie postępowania reklamacyjnego i innych procedur związanych z roszczeniami Klienta lub Warsztatu | 5 lat |
+| Pozostała kategoria danych (za wyjątkiem danych z plików cookies, o czym więcej w naszej Polityce Cookies) | 5 lat |
+| Dane przekazane poprzez skan kodu QR z dowodu rejestracyjnego pojazdu Klienta |  W przypadku przetwarzania danych na podstawie zgody – do czasu jej wycofania. W przypadku przetwarzania danych na podstawie prawnie uzasadnionego celu – do czasu wniesienia sprzeciwu. |
 
 W każdym przypadku dane osobowe będą przechowywane również wtedy, gdy przepisy prawa (np. księgowe lub podatkowe) będą zobowiązywać Administratora do ich przetwarzania; dane osobowe będziemy przechowywać dłużej na wypadek, gdyby Klient miał wobec Administratora jakiekolwiek roszczenia, w celu dochodzenia roszczeń przez Administratora, bądź w celu dochodzenia lub obrony przed roszczeniami osób trzecich, przez okres ich przedawnienia określony przepisami prawa, w szczególności kodeksu cywilnego.
 
 W zależności od zakresu danych osobowych i celów ich przetwarzania mogą być więc one przechowywane przez różny okres. W każdym przypadku decyduje dłuższy termin przechowywania danych osobowych.
 
-## § 7 UZYSKIWANIE DOSTĘPU I AKTUALIZACJA DANYCH OSOBOWYCH,
-
-## REKLAMACJE
+## § 7 UZYSKIWANIE DOSTĘPU I AKTUALIZACJA DANYCH OSOBOWYCH, REKLAMACJE
 
 Zgodnie z art. 15 RODO masz prawo uzyskania ode mnie danych osobowych informacji czy Twoje dane osobowe są przetwarzane.
 
 Jeżeli przetwarzam Twoje dane osobowe, wówczas masz prawo do:
-a) dostępu do danych osobowych;
-b) uzyskania informacji o celach przetwarzania, kategoriach przetwarzanych danych osobowych, o odbiorcach lub kategoriach odbiorców tych danych, planowanym okresie przechowywania Twoich danych lub o kryteriach ustalania tego okresu, o prawach przysługujących Państwu na podstawie RODO oraz o prawie wniesienia skargi do organu nadzorczego, o źródle tych danych, o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu oraz o zabezpieczeniach stosowanych w związku z przekazaniem tych danych poza Unię Europejską;
-c) uzyskania kopii swoich danych osobowych.
+* a) dostępu do danych osobowych;
+* b) uzyskania informacji o celach przetwarzania, kategoriach przetwarzanych danych osobowych, o odbiorcach lub kategoriach odbiorców tych danych, planowanym okresie przechowywania Twoich danych lub o kryteriach ustalania tego okresu, o prawach przysługujących Państwu na podstawie RODO oraz o prawie wniesienia skargi do organu nadzorczego, o źródle tych danych, o zautomatyzowanym podejmowaniu decyzji, w tym o profilowaniu oraz o zabezpieczeniach stosowanych w związku z przekazaniem tych danych poza Unię Europejską;
+* c) uzyskania kopii swoich danych osobowych.
 
 Ponadto, możesz poprosić o skorygowanie danych osobowych (art. 16 RODO), usunięcie danych osobowych (art. 17 RODO), wyrazić sprzeciw wobec przetwarzania danych osobowych (art. 21 RODO) oraz, o ile jest to technicznie wykonalne, poprosić o przekazanie udostępnionych danych osobowych innej organizacji (art. 20 RODO).
 
@@ -226,7 +162,7 @@ Za pomocą cookies obserwuję i analizuję ruch w Aplikacji, zarządzam sesjami 
 
 **Zgoda na cookies.** Podczas rejestracji Konta Klienta w Aplikacji wyświetlana jest Tobie informacja na temat stosowania przeze mnie plików cookies. Pamiętaj, że dokonując rejestracji swojego Konta Warsztatu akceptujesz fakt, korzystania przez moją aplikację z plików cookies technicznych, w trakcie korzystania z Aplikacji zapytam Cię o zgodę na korzystanie z pozostałych plików cookies, którą możesz zaakceptować, ale nie musisz.
 
-Więcej informacji o „ciasteczkach” znajdziesz w Polityce Cookies [https://meldmoto.pl/polityka-cookies](https://meldmoto.pl/polityka-cookies)
+Więcej informacji o „ciasteczkach” znajdziesz w Polityce Cookies [https://meldmoto.pl/polityka-cookies](https://meldmoto.pl/polityka-cookies).
 
 ## § 9 GEOLOKALIZACJA
 
