@@ -1,5 +1,5 @@
-# Szukasz może regulaminów?
-Sprawdź tutaj:
+# Zabłądziłeś?
+Sprawdź regulaminy MeldMoto poniżej:
 
 * ### Polityka Cookies
   [https://meldmoto.github.io/terms_and_conditions/polityka-cookies](https://meldmoto.github.io/terms_and_conditions/polityka-cookies)
