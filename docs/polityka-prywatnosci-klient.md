@@ -64,7 +64,7 @@ Twoje dane osobowe są pozyskiwane przez Administratora w następującym celu:
 | ----------------- | --------------- | --------------------------------------- |
 | Prowadzenie statystyk | art. 6 ust. 1 lit. f RODO | Posiadanie informacji o statystykach prowadzonych działaniach, co pozwala na usprawnienie prowadzonej przez nas działalności gospodarczej. |
 | Prowadzenie działań marketingowych własnych produktów i usług bez wykorzystania środków komunikacji elektronicznej | art. 6 ust. 1 lit. f RODO | Prowadzenie działań marketingowych promujących prowadzoną działalność. |
-| Prowadzenie działań marketingowych własnych produktów i usług z wykorzystaniem środków komunikacji elektronicznej | art. 6 ust. 1 lit. f RODO, przy czym działania te ze względu na inne obowiązujące przepisy, w szczególności Prawo telekomunikacyjne i Ustawę o świadczeniu usług drogą elektroniczną, prowadzone są jedynie na podstawie posiadanych zgód (art. 6 ust. 1 lit. a RODO). | Prowadzenie działań marketingowych promujących prowadzoną działalność z wykorzystaniem adresów e- mail. |
+| Prowadzenie działań marketingowych własnych produktów i usług z wykorzystaniem środków komunikacji elektronicznej | art. 6 ust. 1 lit. f RODO, przy czym działania te ze względu na inne obowiązujące przepisy, w szczególności Prawo telekomunikacyjne i Ustawę o świadczeniu usług drogą elektroniczną, prowadzone są jedynie na podstawie posiadanych zgód (art. 6 ust. 1 lit. a RODO). | Prowadzenie działań marketingowych promujących prowadzoną działalność z wykorzystaniem adresów e-mail. |
 | Obsługa zgłoszeń kierowanych w wiadomości e-mail, reklamacji, innych wniosków | art. 6 ust. 1 lit. a RODO, art. 6 ust. 1 lit. c RODO | Udzielanie odpowiedzi na zgłoszenia i zapytania, w tym przechowywanie newralgicznych wniosków i udzielonych odpowiedzi celem zachowania zasady rozliczalności. Obsługa wniosków, udzielenie odpowiedzi na reklamacje konsumenckie. Dochodzenie roszczeń, w tym od osób trzecich, obrona przez nimi. |
 | Zamieszczenie opinii przez Klienta | art. 6 ust. 1 lit. a RODO | Badanie opinii Klienta, recenzja Warsztatu. |
 | Obsługa Konta Klienta | art. 6 ust. 1 lit. a RODO | Zawarcie i realizacjaUmowy Usług Elektronicznych (Konta Klienta) |
@@ -83,7 +83,7 @@ Dane będą przetwarzane przez czas funkcjonowania opinii w Aplikacji, chyba że
 
 W każdej chwili możesz sprostować swoje dane przypisane do opinii, jak również zażądać ich usunięcia. Przysługuje Ci również prawo do przenoszenia danych, zawartych w art. 20 RODO.
 
-**Konto Klienta.** Zakładając Konto Klienta w mojej Aplikacji przekazujesz mi swój adres e- mail. Jest to dobrowolne, lecz niezbędne w celu skutecznego zarejestrowania Konta Warsztatu.
+**Konto Klienta.** Zakładając Konto Klienta w mojej Aplikacji przekazujesz mi swój adres e-mail. Jest to dobrowolne, lecz niezbędne w celu skutecznego zarejestrowania Konta Warsztatu.
 
 Twoje dane są w tym przypadku przetwarzane w celu prowadzenia Konta Klienta, a podstawą przetwarzania jest art. 6 ust. 1 lit. a RODO, czyli Twoja zgoda wynikające z chęci jego założenia.
 
