@@ -18,7 +18,7 @@
 
 Polityka prywatności Aplikacji mobilnej MeldMoto dla Warsztaty nie stanowi źródła obowiązków dla osób korzystających z Aplikacji. Ma ona charakter wyłącznie informacyjny, nie jest umową ani regulaminem.
 
-Wszystkie wyrażenia i słowa zapisywane za pomocą wielkiej litery (np. Aplikacja, Warsztat, Klient itd.) należy rozumieć zgodnie z [Regulaminem dla Warsztatów](https://meldmoto.github.io/terms_and_conditions/regulamin-warsztat).
+Wszystkie wyrażenia i słowa zapisywane za pomocą wielkiej litery (np. Aplikacja, Warsztat, Klient itd.) należy rozumieć zgodnie z [Regulaminem dla Warsztatów](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/regulamin-warsztat).
 
 W przypadku zaistnienia jakichkolwiek rozbieżności pomiędzy niniejszą Polityką prywatności a zgodami na przetwarzanie danych osobowych, udzielonymi przez Warsztat, podstawą prawną do określenia zakresu działań Administratora są dobrowolnie wyrażone zgody lub przepisy prawa, które znajdują zastosowanie w danej sytuacji faktycznej.
 
@@ -109,7 +109,7 @@ Twoje dane osobowe Administrator może przekazywać:
 prowadzić Aplikację (np. wspierają nas w wysyłaniu wiadomości e-mail, naprawiają błędy w funkcjonalności, a w przypadku działań reklamowych – także w kampaniach marketingowych), dostawcy usług hostingu lub usług teleinformatycznych, podmioty obsługujące płatności elektroniczne lub płatności kartą płatniczą w Aplikacji, firmy, które serwisują oprogramowanie, wspierają Administratora w kampaniach marketingowych, jak również dostawcy usług prawnych i doradczych oraz księgowość zewnętrzna;
 * c) ponadto możemy udostępniać dane w pełni zanonimizowane (takie, które nie mogą Państwa zidentyfikować) podmiotom, z którymi współpracujemy.
 
-W ramach działalności marketingowej (reklamowej) korzystam z usług podmiotów trzecich, które stosują w Aplikacji pliki cookies, piksele lub funkcje marketingowe zbliżone do cookies. Katalog tych podmiotów został szczegółowo wskazany w naszej [Polityce Cookies](https://meldmoto.github.io/terms_and_conditions/polityka-cookies).
+W ramach działalności marketingowej (reklamowej) korzystam z usług podmiotów trzecich, które stosują w Aplikacji pliki cookies, piksele lub funkcje marketingowe zbliżone do cookies. Katalog tych podmiotów został szczegółowo wskazany w naszej [Polityce Cookies](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/polityka-cookies).
 
 Nasi dostawcy mają siedzibę głównie w Polsce lub w innych krajach Europejskiego Obszaru Gospodarczego (EOG), a także np. w przypadku Google Analytics siedzibę poza terytorium EOG. W związku z treścią orzeczenia TSUE _Schrems II_ (C-311/18), mamy włączoną anonimizację Państwa numerów IP – nie przekazujemy tych danych do USA. Pozostałe dane przesyłane do Google nie mają cech danych osobowych, tj. nie można na ich podstawie zidentyfikować konkretnej osoby fizycznej.
 
@@ -160,7 +160,7 @@ Za pomocą cookies obserwuję i analizuję ruch w Aplikacji, zarządzam sesjami 
 
 **Zgoda na cookies.** Podczas rejestracji Konta Klienta w Aplikacji wyświetlana jest Tobie informacja na temat stosowania przeze mnie plików cookies. Pamiętaj, że dokonując rejestracji swojego Konta Warsztatu akceptujesz fakt, korzystania przez moją aplikację z plików cookies technicznych, w trakcie korzystania z Aplikacji zapytam Cię o zgodę na korzystanie z pozostałych plików cookies, którą możesz zaakceptować, ale nie musisz.
 
-Więcej informacji o „ciasteczkach” znajdziesz w  [Polityce Cookies](https://meldmoto.github.io/terms_and_conditions/polityka-cookies).
+Więcej informacji o „ciasteczkach” znajdziesz w  [Polityce Cookies](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/polityka-cookies).
 
 ## § 9 GEOLOKALIZACJA
 
