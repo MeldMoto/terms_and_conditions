@@ -26,7 +26,7 @@ W przypadku zaistnienia jakichkolwiek rozbieżności pomiędzy niniejszą Polity
 
 Administratorem Twoich danych osobowych jest Wojciech Ozimek, wykonujący działalność gospodarczą pod firmą MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860.
 
-We wszelkich kwestiach związanych z ochroną danych osobowych zachęcam do kontaktu na wyżej wskazany adres lub za pośrednictwem adresu e-mail: `hello@meldmoto.pl`.
+We wszelkich kwestiach związanych z ochroną danych osobowych zachęcam do kontaktu na wyżej wskazany adres lub za pośrednictwem adresu e-mail: hello@meldmoto.pl.
 
 Na powyższy adres można przesłać również żądanie udostępnienia informacji o tym, jakie dane na Twój temat posiadam oraz w jakich celach je przetwarzam.
 

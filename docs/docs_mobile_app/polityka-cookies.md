@@ -17,11 +17,11 @@ Niniejsza Polityka cookies, będąca rozszerzeniem Polityki Prywatności Aplikac
 
 - [**Polityka Prywatności Aplikacji MeldMoto Warsztat** ](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/polityka-prywatnosci-warsztat)
 -  [**Polityki Prywatności Aplikacji MeldMoto Klient**](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/polityka-prywatnosci-klient)
--  [**Regulamin Aplikacji MeldMoto Warsztat**](hhttps://meldmoto.github.io/terms_and_conditions/docs_mobile_app/regulamin-warsztat)
+-  [**Regulamin Aplikacji MeldMoto Warsztat**](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/regulamin-warsztat)
 - [**Regulamin Aplikacji MeldMoto Klienci** ](https://meldmoto.github.io/terms_and_conditions/docs_mobile_app/regulamin-klient)
 
 **Dane kontaktowe.**
-Administratorem Państwa danych osobowych w związku z ich przetwarzaniem za pomocą cookies jest Wojciech Ozimek, wykonujący działalność gospodarczą pod firmą MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860 (dalej: Administrator). Administrator jest również dostępny pod adresem: <hello@meldmoto.pl>.
+Administratorem Państwa danych osobowych w związku z ich przetwarzaniem za pomocą cookies jest Wojciech Ozimek, wykonujący działalność gospodarczą pod firmą MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860 (dalej: Administrator). Administrator jest również dostępny pod adresem: hello@meldmoto.pl.
 
 **1. Czy nasza Aplikacja korzysta z cookies?**
 Tak, nasza Aplikacja, podobnie jak większość aplikacji, wykorzystuje pliki cookies, czyli ciasteczka. Polityka cookies dotyczy wszystkich zarejestrowanych użytkowników, którzy korzystają z aplikacji MeldMoto.

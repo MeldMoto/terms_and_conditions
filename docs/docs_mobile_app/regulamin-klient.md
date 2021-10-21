@@ -17,7 +17,7 @@ Zespół MeldMoto**
 
 ## § 1 POSTANOWIENIA OGÓLNE
 
-1. Właścicielem, dostawcą i administratorem Aplikacji jest MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860. Kontakt z Właścicielem jest możliwy pod adresem e-mail: `hello@meldmoto.pl`.
+1. Właścicielem, dostawcą i administratorem Aplikacji jest MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860. Kontakt z Właścicielem jest możliwy pod adresem e-mail: hello@meldmoto.pl.
 2. Aplikację można pobrać na urządzenia mobilne z systemem Android ze sklepu Google Play, natomiast dla urządzeń mobilnych z systemem iOS z App Store. Niniejszy Regulamin skierowany jest do Klientów będących zarówno Konsumentami, Przedsiębiorcami na prawach konsumenta, jak i przedsiębiorcami korzystającymi z aplikacji mobilnej MeldMoto w ramach utworzonego konta „Klient”.
 3. Akceptacja niniejszego Regulaminu jest dobrowolna, jednak konieczna dla prawidłowego korzystania z konta „Klient”, w szczególności zarejestrowania się w aplikacji mobilnej MeldMoto jako Klient, rezerwowania terminów usług, uiszczania płatności i koordynowania wykonania usługi. Akceptacja odbywa się poprzez rejestrację użytkownika oraz potwierdzenie jego rejestracji (aktywacji) w drodze kliknięcia w link przesłany na adres e-mail użytkownika, podany przy rejestracji (podwójna weryfikacja).
 4. Regulamin jest nieodpłatnie udostępniany przez MeldMoto w Aplikacji, po kliknięciu w zakładkę Ustawienia – w sposób umożliwiający Klientowi zapoznanie się z jego treścią i utrwalanie jego treści poprzez pobranie, wydrukowanie lub zapisanie na nośniku zewnętrznym.
@@ -27,7 +27,7 @@ Zespół MeldMoto**
    - c) **Konto Klienta** – usługa elektroniczna; prowadzone nieodpłatnie przez MeldMoto dla Klienta indywidualne konto chronione hasłem i przypisane do jednego adresu e-mail i/lub numeru telefonu Klienta (loginu), będące częścią Aplikacji, w którym gromadzone są dane Klienta, dane dodanych przez niego do Konta Klienta pojazdów znajdujących się w jego posiadaniu oraz informacje o Rezerwacjach, Serwisach z jakich skorzystał i dodanych przez niego Opiniach.
    - d) **Konto Warsztatu** – usługa elektroniczna, prowadzone odpłatnie przez MeldMoto dla Warsztatu konto chronione hasłem i przypisane do jednego adresu e-mail i/lub numeru telefonu Warsztatu stanowiące wyodrębnioną cześć Aplikacji zawierająca zbiór informacji dotyczących Warsztatu, umożliwiające Warsztatowi publikowanie ofert Serwisu wraz z orientacyjnymi Cenami, przyjmowanie Rezerwacji od Klientów, dokonywanie Wycen oraz zawieranie Umów Serwisu, przyjmowanie Płatności, a także uiszczanie opłat na rzecz MeldMoto z tytułu korzystania z Aplikacji.
    - e) **Konsument** – osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową.
-   - f) **MeldMoto** – MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860. Kontakt z Właścicielem jest możliwy pod adresem e-mail: `hello@meldmoto.pl`.
+   - f) **MeldMoto** – MeldMoto Wojciech Ozimek, z siedzibą w Krakowie przy ulicy Skalica 18, wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, NIP: 6762596425, REGON: 388840860. Kontakt z Właścicielem jest możliwy pod adresem e-mail: hello@meldmoto.pl.
    - g) **Przedsiębiorca na prawach konsumenta –** Klient, który jest osobą fizyczną zawierającą umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie posiada ona dla niej charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej
    - h) **Warsztat** - osoba fizyczna prowadząca działalność gospodarczą, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której ustawa przyznaje zdolność prawną, posiadająca Konto Warsztatu utworzone przez MeldMoto na podstawie przeprowadzonego procesu rejestracji i aktywacji Konta Warsztatu i oferująca lub świadcząca za pośrednictwem Aplikacji Serwisy - w związku z prowadzoną działalnością gospodarczą lub zawodową, na podstawie odrębnej umowy i regulaminu obowiązującego Warsztat.
    - i) **Serwis** – usługi oferowane przez Warsztat na zasadach i w sposób opisany w ramach Aplikacji, będące przedmiotem świadczenia Warsztatu na rzecz Klienta i które mogą zostać objęte rezerwacją.
@@ -164,7 +164,7 @@ Regulaminie.
 ## § 9 PROCEDURY REKLAMACYJNE
 
 1. Klient ma prawo skorzystać z procedury reklamacyjnej, w ramach której może zgłosić swoje zastrzeżenia co do Usług lub Aplikacji, w szczególności zasad funkcjonowania Aplikacji, kwestii związanych z rozliczaniem płatności Serwisu lub świadczeniem Serwisu, a także roszczenia związane z rękojmią, o której mowa w § 8 powyżej.
-2. Reklamacje dot. Usług lub Aplikacji można złożyć w formie elektronicznej pod adresem e-mail: `reklamacje@meldmoto.pl` lub w formie pisemnej na adres MeldMoto wskazany na wstępie Regulaminu.
+2. Reklamacje dot. Usług lub Aplikacji można złożyć w formie elektronicznej pod adresem e-mail: reklamacje@meldmoto.pl lub w formie pisemnej na adres MeldMoto wskazany na wstępie Regulaminu.
 3. Reklamacje dotyczące Serwisów (w szczególności z tytułu rękojmi), należy skierować bezpośrednio do konkretnego Warsztatu (na jego adres), lub za pośrednictwem MeldMoto, który niezwłocznie przekaże reklamację Warsztatowi.
 4. Reklamacja powinna zawierać co najmniej imię i nazwisko, adres e-mail oraz opis zgłaszanych zastrzeżeń, a w miarę możliwości – także dokumentację zdjęciową. Jeżeli podane w reklamacji dane lub informacje wymagają uzupełnienia, przed rozpatrzeniem reklamacji rozpatrujący zwraca się do składającego reklamację o jej uzupełnienie we wskazanym zakresie.
 5. Jeżeli reklamacja obejmuje roszczenia, za które MeldMoto nie ponosi odpowiedzialności (w szczególności dotyczące jakości Serwisy, realizacji uprawnień z rękojmi lub usług płatniczych świadczonych przez zewnętrznych dostawców), MeldMoto przekaże niezwłocznie reklamację odpowiedniemu Warsztatowi lub operatowi płatności.
@@ -174,7 +174,7 @@ Regulaminie.
 
 1. Umowa z MeldMoto zostaje zawarta na czas nieokreślony z chwilą rejestracji Konta Klienta.
 2. Umowa może zostać rozwiązana przez Klienta w każdym czasie, bez zachowania okresu wypowiedzenia.
-3. Rozwiązanie Umowy może nastąpić poprzez wybranie i potwierdzenie w Aplikacji opcji „Usuń Konto” w Koncie Klienta lub poprzez pocztę elektroniczną (wysłanie wiadomości o stosownej treści wyrażającej chęć rozwiązania Umowy z adresu e-mail przypisanego do Konta Klienta na adres mailowy MeldMoto: `rezygnacja@meldmoto.pl`
+3. Rozwiązanie Umowy może nastąpić poprzez wybranie i potwierdzenie w Aplikacji opcji „Usuń Konto” w Koncie Klienta lub poprzez pocztę elektroniczną (wysłanie wiadomości o stosownej treści wyrażającej chęć rozwiązania Umowy z adresu e-mail przypisanego do Konta Klienta na adres mailowy MeldMoto: rezygnacja@meldmoto.pl
 4. Umowa z Klientem może zostać rozwiązana przez MeldMoto:
    - a) w każdy przypadku - z zachowaniem miesięcznego okresu wypowiedzenia, ze skutkiem na koniec miesiąca kalendarzowego w którym złożone zostało oświadczenie MeldMoto o wypowiedzeniu.
    - b) z zachowaniem siedmiodniowego okresu wypowiedzenia w sytuacjach określonych w Regulaminie.
@@ -207,10 +207,10 @@ Regulaminie.
    - e) zmian organizacyjnych,
    - f) ze względów bezpieczeństwa lub ochrony prywatności,
 4. O dokonanych zmianach w Regulaminie Klient zostanie powiadomiony za pośrednictwem wiadomości e-mail przesłanej na adres poczty elektronicznej powiązanej z Kontem Klienta, najpóźniej na 14 dni przed ich wejściem w życie, chyba że co innego będzie wynikać z powszechnie obowiązujących przepisów prawa. MeldMoto może dokonać zmiany Regulaminu bez zachowania terminu, o którym mowa w zdaniu poprzednim, jeżeli wymagają tego przepisy prawa lub jest to niezbędne dla zapewnienia bezpieczeństwa Aplikacji lub jej użytkowników - Klientów lub Warsztatów.
-5. Klient ma prawo żądać (w terminie 14 dni od dnia zawiadomienia go o zmianie Regulaminu) rozwiązania Umowy i usunięcia Konta Klienta poprzez złożenie oświadczenia w formie pisemnej lub w formie e-mail. Stosowne oświadczenie powinno zostać przesłane na adres e-mail MeldMoto `rezygnacja@meldmoto.pl`, bądź za pomocą opcji usunięcia konta dostępnej w Aplikacji.
+5. Klient ma prawo żądać (w terminie 14 dni od dnia zawiadomienia go o zmianie Regulaminu) rozwiązania Umowy i usunięcia Konta Klienta poprzez złożenie oświadczenia w formie pisemnej lub w formie e-mail. Stosowne oświadczenie powinno zostać przesłane na adres e-mail MeldMoto rezygnacja@meldmoto.pl, bądź za pomocą opcji usunięcia konta dostępnej w Aplikacji.
 
 ## § 14 WSPARCIE TECHNICZNE
 
-1. Ewentualne pytania, uwagi lub propozycje użytkowników dotyczące Aplikacji i jej funkcjonalności, można kierować pod adres email: `pomoc@meldmoto.pl`
+1. Ewentualne pytania, uwagi lub propozycje użytkowników dotyczące Aplikacji i jej funkcjonalności, można kierować pod adres email: pomoc@meldmoto.pl
 
 Regulamin dla konta „Klient”, wersja 1.0 z dn. 6.10.2021 r.
